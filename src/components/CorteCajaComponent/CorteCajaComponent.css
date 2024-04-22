@@ -1,0 +1,15 @@
+/* Estilos para el contenedor de "Corte de cada día" */
+.corte_caja1 {
+    background-color: green;
+    padding: 10px;
+    margin-top: 20px; /* Espacio superior */
+    margin-right: 18%; /* Margen derecho para controlar el desplazamiento */
+    width: 200px; /* Ancho del contenedor */
+    clear: both; /* Limpiar el float */
+    float: right; /* Mover a la derecha */
+}
+/* Estilos para el texto "Corte de cada día" */
+.corte_caja1 p {
+    color: white; /* Color del texto */
+    font-weight: bold;
+}

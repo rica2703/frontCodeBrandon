@@ -1,0 +1,26 @@
+/* Estilos para el contenedor de la información adicional */
+.additional-info-container {
+    text-align: center; /* Centrar los elementos horizontalmente */
+}
+
+/* Estilos para la información adicional izquierda */
+.additional-info.left {
+    background-color: pink;
+    width: 120px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 50%; /* Aumentar la separación entre elementos */
+    border-radius: 10px; /* Agregar bordes redondeados */
+    font-size: 20px; /* Aumentar el tamaño de fuente */
+    color: black; /* Cambiar el color de texto */
+}
+
+/* Estilos para la información adicional derecha */
+.additional-info.right {
+    background-color: pink;
+    width: 120px;
+    display: inline-block;
+    border-radius: 10px; /* Agregar bordes redondeados */
+    font-size: 20px; /* Aumentar el tamaño de fuente */
+    color: black; /* Cambiar el color de texto */
+}

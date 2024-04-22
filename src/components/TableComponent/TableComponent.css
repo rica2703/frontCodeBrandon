@@ -1,0 +1,14 @@
+/* Estilos para la tabla */
+.tabla {
+    margin: 20px auto; /* Centrar la tabla horizontalmente */
+    border-collapse: collapse;
+    width: 60%; /* Ancho de la tabla */
+    background-color: rgb(189, 186, 186);
+}
+
+.tabla th, .tabla td {
+    border: 1px solid black;
+    padding: 12px; /* Aumentar el espacio interno */
+    text-align: center;
+    height: 30px; /* Altura de las celdas */
+}

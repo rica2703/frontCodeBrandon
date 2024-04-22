@@ -1,0 +1,25 @@
+.info-container6 {
+    display: flex;
+    flex-direction: column; /* Cambiamos la dirección del flex a columna */
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Hace que el contenedor ocupe toda la altura de la ventana */
+    background-color: rgb(225, 220, 220); /* Fondo blanco */
+    margin: auto; /* Centra horizontalmente */
+    width: 50%; /* Define el ancho del contenedor */
+  }
+  
+  .logo-container {
+    margin-bottom: 20px; /* Añadimos un margen inferior para separar la imagen del texto */
+  }
+  
+  .logo-image {
+    width: 150px; /* Hacemos la imagen un poco más grande */
+    height: 130px;
+  }
+  
+  .informacion {
+    text-align: center; /* Centramos el texto */
+    font-size: 20px; /* Hacemos la letra un poco más grande */
+  }
+  

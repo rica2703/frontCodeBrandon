@@ -1,0 +1,25 @@
+.search-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .input1[type="text"] {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    font-size: 20px;
+  }
+  
+  .search-container button {
+    padding: 10px 20px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+  }
+  
+  .search-container button img {
+    width: 30px;
+    height: 20px;
+  }
+  

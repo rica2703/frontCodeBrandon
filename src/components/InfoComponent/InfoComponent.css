@@ -1,0 +1,40 @@
+/* Estilos para el contenedor de información */
+.info-container1 {
+    float: right;
+    margin-top: 20px; /* Espacio superior */
+    margin-right: 20%; /* Ajustar el margen derecho */
+    clear: both; /* Limpiar el float */
+}
+
+/* Estilos para los textos */
+.info-item1 {
+    margin-bottom: 20px; /* Espacio entre cada texto */
+}
+
+.info-item1 p {
+    font-weight: bold; /* Texto en negrita */
+}
+
+.info-item1 hr {
+    border: 1px solid black; /* Línea divisoria */
+}
+
+.money-container {
+    background-color: pink;
+    padding: 5px;
+    display: inline-flex; /* Mostrar elementos en la misma línea */
+    align-items: center; /* Centrar verticalmente */
+  }
+  
+  /* Estilos para el símbolo de dinero */
+  .money-symbol {
+    font-size: 24px;
+  }
+  
+  /* Estilos para el valor de dinero */
+  .money-value {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5px; /* Espacio entre el símbolo de dinero y la cantidad */
+  }
+  

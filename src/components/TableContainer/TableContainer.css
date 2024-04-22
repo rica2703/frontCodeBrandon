@@ -1,0 +1,47 @@
+.table-and-info-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 20px;
+  }
+
+.table-container {
+    width: 80%;
+  }
+  
+  .table-container table {
+    background-color: rgb(189, 186, 186);
+    width: 90%;
+    border-collapse: collapse;
+  }
+  
+  .table-container table,
+  .table-container th,
+  .table-container td {
+    border: 1px solid black;
+  }
+  
+  .table-container th,
+  .table-container td {
+    padding: 10px;
+    text-align: center;
+    width: 100px;
+    height: 30px;
+  }
+  
+  .delete-button {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+  }
+  
+  .delete-button:focus {
+    outline: none;
+  }
+  
+  .icon {
+    width: 30px;
+    height: 30px;
+  }
+  

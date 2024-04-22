@@ -1,0 +1,23 @@
+nav {
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 0px;
+  }
+  
+  .menu {
+    list-style: none;
+    padding: 0;
+    margin-left: 10%;
+    font-size: 26px;
+  }
+  
+  .menu li {
+    display: inline-block;
+    margin-right: 20px;
+    cursor: pointer;
+  }
+  
+  .menu li:hover {
+    color: rgb(178, 84, 178);
+  }
+  
